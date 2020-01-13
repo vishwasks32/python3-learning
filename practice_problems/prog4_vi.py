@@ -3,7 +3,7 @@
 # Author: Vishwas K Singh
 # Email: vishwasks32@gmail.com
 #
-# Script to Script to convert Celcius Temperature to Farenheit
+# Script to convert Celcius Temperature to Farenheit
 def temp_conv(temp_type, temp_val):
     ''' Function to convert Temperature from Celcius to farenheit
         and vice versa'''
