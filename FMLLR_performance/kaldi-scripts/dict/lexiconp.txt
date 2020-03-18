@@ -1,0 +1,12 @@
+!SIL 1.0	sil
+<UNK> 1.0	spn
+ondu 1.0	o .n du
+eradu 1.0	e ra Du
+mooru 1.0	mU ru
+naalku 1.0	naa l ku
+aidhu 1.0	ai du
+aaru 1.0	aa ru
+yelu 1.0	E Lu
+entu 1.0	e .n Tu
+ombattu 1.0	o .n bha ttu
+sonne 1.0	so .n ne

@@ -1,0 +1,25 @@
+Date: 10/06/2018
+----------------------------------------------------------------------
+Noise_Type|SNR_Value|Mono_Training|Tri_Trainingi|Experiment_Name
+----------------------------------------------------------------------
+clean|0db|3.33|6.67|digits1
+babble|5db|20.00|26.67|digits2
+babble|10db|16.67|13.33|digits3
+babble|15db|3.33|10.00|digits4
+white|5db|6.67|6.67|digits5
+white|10db|3.33|10.00|digits6
+white|15db|6.67|6.67|digits7
+factory|5db|23.33|33.33|digits8
+factory|10db|3.33|13.33|digits9
+factory|15db|10.00|10.00|digits10
+traffic|5db|46.67|60.00|digits11
+traffic|10db|36.67|40.00|digits12
+traffic|15db|30.00|23.33|digits13
+train|5db|40.00|53.33|digits14
+train|10db|20.00|16.67|digits15
+train|15db|3.33|3.33|digits16
+babble|3db|33.33|36.67|digits17
+white|3db|6.67|13.33|digits18
+factory|3db|16.67|16.67|digits19
+train|3db|56.67|53.33|digits20
+traffic|3db|53.33|66.67|digits21
